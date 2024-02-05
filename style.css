@@ -1,0 +1,20 @@
+*, ::before, ::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    /* background: blue!important; */
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #111;
+}
+p {
+    background: rgb(64, 11, 64);
+    /* width: 200px; */
+}
+.container {
+    width: 1200px;
+}
+
