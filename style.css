@@ -11,8 +11,7 @@ body {
     background: #111;
 }
 p {
-    background: rgb(64, 11, 64);
-    /* width: 200px; */
+    color: #f1f1f1;
 }
 .container {
     width: 700px;
