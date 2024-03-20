@@ -13,4 +13,8 @@ body {
 p {
     color: #f1f1f1;
 }
-
+@media (max-width: 700px) {
+    p {
+        background-color: red;
+    }
+}
